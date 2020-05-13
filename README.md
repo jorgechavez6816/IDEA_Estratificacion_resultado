@@ -5,4 +5,4 @@ Se presenta un ejemplo de ejecución del comando en formato IDEAScript y en Pyth
 
 De esta manera se da un ejemplo de la interacción entre el software de Auditoria IDEA de CASEWARE con Python. Muy útil para automatizar fácilmente las diferentes tablas en formato IMD con las herramientas de machine learning que posee Python.
 
-Mediante la extracción directa se puede separar una porción de la información original considerando ciertos criterios para obtener una nueva tabla.
+Mediante la extratificación resultado se obtiene una vista de la información mediantes estratos. No genera una tabla IMD.
